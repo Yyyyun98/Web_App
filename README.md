@@ -12,13 +12,15 @@ Section 1: Customer-Facing
 
 2. Payment Received: When user pay for an order
    
-   {order_id} in lines 354 and 451
+   {order_id} in lines 354 and 495
    
-   {webapp link} in lines 277, 278, 465 and 507 
+   {webapp link} in lines 277, 278, 509 and 565 
    
-   {payment amount} in lines 382 and 479
+   {payment amount} in lines 396 and 523
    
-   {receipt link} in lines 410 and 493
+   {output_format} in lines 426, 537
+   
+   {receipt link} in lines 454 and 551
 
 3. Floorplan Ready: When the opal admin confirms to send the floorplans
    
